@@ -1,1 +1,1 @@
-This is a mini-project to recreate the google homepage with html+css
+This is a mini-project to recreate the google homepage(easy ver.) with html+css
